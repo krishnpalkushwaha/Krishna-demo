@@ -1,3 +1,5 @@
 # Krishna-demo
-This is my first Git Repository. Author-Krishnpal
+This is my first Git Repository.
+<br>
+Author-Krishnpal
 
